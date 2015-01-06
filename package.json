@@ -1,0 +1,41 @@
+{
+  "name": "passport-ebay",
+  "version": "0.1.2",
+  "description": "Ebay Authentication strategy for Passport.",
+  "author": {
+    "name": "Le Duong",
+    "email": "i@leduong.com",
+    "url": "http://fb.com/leduongcom"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/leduong/passport-ebay.git"
+  },
+  "bugs": {
+    "url": "http://github.com/leduong/passport-ebay/issues"
+  },
+  "main": "./lib/passport-ebay",
+  "dependencies": {
+    "pkginfo": "0.2.x",
+    "passport": "~0.1.1",
+    "ebay-api": "git://github.com/leduong/nodejs-ebay-api.git"
+  },
+  "devDependencies": {
+    "jasmine-node": "*"
+  },
+  "engines": {
+    "node": ">= 0.4.0"
+  },
+  "licenses": [{
+    "type": "MIT",
+    "url": "http://www.opensource.org/licenses/MIT"
+  }],
+  "keywords": [
+    "passport",
+    "ebay",
+    "auth",
+    "authn",
+    "authentication"
+  ],
+  "readme": "ERROR: No README data found!"
+}
